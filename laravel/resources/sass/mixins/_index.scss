@@ -1,0 +1,19 @@
+@mixin square($size) {
+    width: $size;
+    height: $size;
+}
+
+$phone-width: 330px;
+$desktop-width: 900px;
+
+@mixin phone {
+    @media (min-width: #{$phone-width}) and (max-width: #{desktop-width - 1px}) {
+        @content
+    }
+}
+
+@mixin desktop {
+    @media (min-width: #{$desktop-width})  {
+        @content
+    }
+}

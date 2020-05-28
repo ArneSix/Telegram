@@ -1,0 +1,32 @@
+.header-bg {
+    background-color: $white;
+}
+
+.navbar-brand > img {
+    @include square(45px);
+}
+
+.navbar-toggler-icon {
+    vertical-align: top;
+}
+
+.navbar-toggler-icon > img {
+    @include square(30px);
+}
+
+.navbar-toggler {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.nav-item {
+    text-transform: $font-style-header-nav-item;
+    font-size: $font-size-header-nav-item;
+    font-family: $font-family-header-nav-item;
+
+    & a {
+        color: $font-color-header-nav-item;
+        font-weight: $font-weight-header-nav-item;
+    }
+}
