@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Article;
 use App\Page;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
 
 class PagesController extends Controller
 {
@@ -15,32 +16,33 @@ class PagesController extends Controller
 
     public function home()
     {
-        return view("pages/home", compact('DATA_TO_COMPACT'));
+        return view("pages/home");
     }
 
     public function about()
     {
-
+        $articles = Article::all();
+        return view("pages/about");
     }
 
     public function privacy()
     {
-
+        return view("pages/privacy");
     }
 
     public function donate()
     {
-
+        return view("pages/donate");
     }
 
     public function articles()
     {
-
+        return view("pages/articles");
     }
 
     public function article(Article $article)
     {
-
+        return view("pages/article");
     }
 
     public function create()
