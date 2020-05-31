@@ -7,7 +7,7 @@ use App\Page;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 
-class PagesController extends Controller
+class PageController extends Controller
 {
     public function getRouteKeyName()
     {

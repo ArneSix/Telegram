@@ -3,7 +3,7 @@
 }
 
 .navbar-brand > img {
-    @include square(45px);
+    @include square(40px);
 }
 
 .navbar-toggler-icon {
@@ -29,4 +29,13 @@
         color: $font-color-header-nav-item;
         font-weight: $font-weight-header-nav-item;
     }
+}
+
+.nav-right {
+    width: 100%;
+}
+
+.nav-language {
+    margin-left: auto;
+    color: $black;
 }
