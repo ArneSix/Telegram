@@ -45,31 +45,6 @@ class PageController extends Controller
         return view("pages/article");
     }
 
-    public function create()
-    {
-
-    }
-
-    public function store()
-    {
-
-    }
-
-    public function edit(Page $page)
-    {
-
-    }
-
-    public function update(Page $page)
-    {
-
-    }
-
-    public function delete(Page $page)
-    {
-
-    }
-
     /*
      * This default function will get any page that isn't strictly defined in laravel.
      * It will look for a custom page inside the database and load the content and layout
@@ -77,9 +52,14 @@ class PageController extends Controller
      *
      * If no page is found it will automatically return a 404 page.
      */
-    public function default(Page $page)
+    public function getPage($pageSlug)
     {
-        $layout = $page->layout;
-        return view("layouts/$layout", [ 'data' => $page ]);
+        $page = Page::where('slug', $pageSlug)->first();
+
+        if (!$page) abort('404');
+        
+        return view("pages.$page->template", [
+            'page' => $page,
+        ]);
     }
 }

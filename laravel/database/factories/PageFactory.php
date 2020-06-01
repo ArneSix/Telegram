@@ -10,6 +10,7 @@ $factory->define(Page::class, function (Faker $faker) {
         'slug' => $faker->slug(),
         'title' => $faker->text(),
         'layout' => $faker->word(),
+        'intro'=> $faker->text(),
         'body' => $faker->randomHtml(4),
     ];
 });

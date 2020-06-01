@@ -2,53 +2,95 @@
 
 namespace App\Http\Controllers;
 
+use App\Page;
 use Illuminate\Http\Request;
+use Illuminate\Support\Str;
 
 class DashboardController extends Controller
 {
     public function getIndex()
     {
-        return view("pages.home");
-    }
-
-    public function getIndexPages()
-    {
-        return view("pages.home");
+        return view("admin.pages.home");
     }
 
     public function getIndexArticles()
     {
-        return view("pages.home");
+        return view("admin.pages.articles");
     }
 
     public function getIndexDonations()
     {
-        return view("pages.home");
+        return view("admin.pages.donations");
     }
 
     public function getIndexKeys()
     {
-        return view("pages.home");
+        return view("admin.pages.keys");
     }
 
-    public function pageStore()
+    public function getIndexPages()
     {
+        $pages = Page::all();
 
+        return view("admin.pages.pages", [
+            'pages' => $pages
+        ]);
     }
 
-    public function pageEdit()
+    public function pageCreate()
     {
-
+        return view("admin.pages.pageCRUD.create");
     }
 
-    public function pageUpdate()
+    public function pageStore(Request $r)
     {
+        request()->validate([
+            'title' => 'required',
+            'intro' => 'required',
+            'content' => 'required',
+            'layout' => 'required',
+        ]);
 
+        Page::create([
+            'title' => request('title'),
+            'slug' => Str::slug(request(('title'))),
+            'intro' => request('intro'),
+            'body' => request('content'),
+            'layout' => request('layout'),
+        ]);
+
+        return redirect()->route('dashboard.index.pages');
     }
 
-    public function pageDelete()
+    public function pageEdit(Page $page)
     {
+        return view("admin.pages.pageCRUD.edit", [
+            "page" => $page,
+        ]);
+    }
 
+    public function pageUpdate(Page $page, Request $r)
+    {
+        //TODO: validate update
+
+        if ($r->id != $page->id) abort(403);
+
+        $page->update([
+            'title' => request('title'),
+            'slug' => Str::slug(request(('title'))),
+            'intro' => request('intro'),
+            'body' => request('content'),
+            'layout' => request('layout'),
+        ]);
+
+        return redirect()->route('dashboard.index.pages');
+    }
+
+    public function pageDelete(Page $page)
+    {
+        $page->delete();
+
+        return redirect()->route('dashboard.index.pages');
     }
 
     public function articleCreate()

@@ -32,7 +32,7 @@ Route::get('/donate', 'PageController@donate')->name('donate');
 
 
 // Custom page handler
-Route::get('/page/{page}', 'PageController@default');
+Route::get('/page/{page}', 'PageController@getPage');
 
 // All routes following this line will require authentication to access.
 Auth::routes(['verify' => true]);
@@ -45,11 +45,11 @@ Route::prefix('dashboard')->as('dashboard.')->group(function () {
 
         // CRUD routes for pages
 
-        Route::get('/page/create', 'AdminController@pageCreate')->name('page.create');
-        Route::post('/page/store', 'AdminController@pageStore')->name('page.store');
-        Route::get('/page/edit/{page}', 'AdminController@pageEdit')->name('page.edit');
-        Route::patch('/page/update/{page}', 'AdminController@pageUpdate')->name('page.update');
-        Route::delete('/page/delete/{page}', 'AdminController@pageDelete')->name('page.delete');
+        Route::get('/page/create', 'DashboardController@pageCreate')->name('page.create');
+        Route::post('/page/store', 'DashboardController@pageStore')->name('page.store');
+        Route::get('/page/edit/{page}', 'DashboardController@pageEdit')->name('page.edit');
+        Route::patch('/page/update/{page}', 'DashboardController@pageUpdate')->name('page.update');
+        Route::delete('/page/delete/{page}', 'DashboardController@pageDelete')->name('page.delete');
 
         // CRUD routes for articles
         Route::get('/article', 'DashboardController@getIndexArticles')->name('index.articles');
