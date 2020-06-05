@@ -1,0 +1,47 @@
+.image-contain {
+    width: 100%;
+    height: 100%;
+}
+
+.home-section-divider {
+    background-color: $color-blue;
+
+    & p {
+        padding: 2rem 0;
+        margin: 0;
+        color: white;
+    }
+}
+
+
+.btn-learn-more {
+    padding: 20px;
+    text-decoration: none;
+    border-radius: 120px;
+    color: white;
+    text-transform: uppercase;
+    background-color: $color-blue;
+    margin: 20px 0;
+    display: block;
+
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+.height-350 {
+    height: 350px;
+}
+
+.home-section-articles {
+    background-color: $color-blue;
+}
+
+.btn-read-more {
+    color: white;
+
+    &:hover {
+        text-decoration: none;
+        color: white;
+    }
+}

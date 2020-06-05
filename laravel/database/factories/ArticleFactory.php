@@ -10,5 +10,6 @@ $factory->define(Article::class, function (Faker $faker) {
         'slug' => $faker->slug(),
         'title' => $faker->title(),
         'content' => $faker->text(),
+        'image' => $faker->imageUrl(),
     ];
 });

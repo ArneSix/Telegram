@@ -19,7 +19,7 @@ class CreateArticlesTable extends Migration
             $table->string('slug')->unique();
             $table->string('title');
             $table->longText('content');
-            // todo: add image reference
+            $table->string('image')->nullable();
         });
     }
 

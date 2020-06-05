@@ -28,6 +28,7 @@ Route::get('/privacy', 'PageController@privacy')->name('privacy');
 Route::get('/article', 'PageController@articles')->name('articles');
 Route::get('/article/{article}', 'PageController@article')->name('article');
 Route::get('/donate', 'PageController@donate')->name('donate');
+Route::post('/subscribe', 'EmailController@subscribe')->name('subscribe');
 
 
 
@@ -63,7 +64,7 @@ Route::prefix('dashboard')->as('dashboard.')->group(function () {
         // R routes for donations
         Route::get('/donations', 'DashboardController@getIndexDonations')->name('index.donations');
 
-        Route::get('/donations/{donation}', 'DonDashboardController@donationShow')->name('donation.show');
+        Route::get('/donations/{donation}', 'DashboardController@showDonation')->name('donation.show');
 
         // CRUD routes for api-keys
         Route::get('/keys', 'DashboardController@getIndexKeys')->name('index.keys');
