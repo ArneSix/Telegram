@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-backstage">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="backstage" clip-path="url(#clip-backstage)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <rect id="Rectangle_31" data-name="Rectangle 31" width="400" height="1080" fill="#eceaea"/>
+    <text id="Home" transform="translate(168 187)" font-size="24" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Home</tspan></text>
+    <text id="Pages" transform="translate(168 294)" font-size="24" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Pages</tspan></text>
+    <text id="News" transform="translate(170 401)" font-size="24" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">News</tspan></text>
+    <text id="Donaties" transform="translate(153 508)" font-size="24" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Donaties</tspan></text>
+    <text id="API-keys" transform="translate(155 615)" font-size="24" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">API-keys</tspan></text>
+  </g>
+</svg>

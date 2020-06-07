@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="734" viewBox="0 0 414 734">
+  <defs>
+    <clipPath id="clip-login:mobile-color">
+      <rect width="414" height="734"/>
+    </clipPath>
+  </defs>
+  <g id="login:mobile-color" clip-path="url(#clip-login:mobile-color)">
+    <rect width="414" height="734" fill="#40b3e0"/>
+    <path id="Rectangle_32" data-name="Rectangle 32" d="M0,0H415a0,0,0,0,1,0,0V580A154,154,0,0,1,261,734H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(-1)" fill="#fff"/>
+    <g id="contact_form" data-name="contact form" transform="translate(36 121)">
+      <text id="login" transform="translate(0 19)" font-size="18" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">login</tspan></text>
+      <g id="Group_8" data-name="Group 8" transform="translate(0 82)">
+        <text id="email" transform="translate(0 15)" font-size="14" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">email</tspan></text>
+        <rect id="Rectangle_9" data-name="Rectangle 9" width="342" height="52" transform="translate(0 45)" fill="#f7f7f7"/>
+      </g>
+      <g id="Group_8-2" data-name="Group 8" transform="translate(0 199)">
+        <text id="password" transform="translate(0 15)" font-size="14" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">password</tspan></text>
+        <rect id="Rectangle_9-2" data-name="Rectangle 9" width="342" height="52" transform="translate(0 45)" fill="#f7f7f7"/>
+      </g>
+      <g id="button" transform="translate(0 341)">
+        <g id="button-2" data-name="button">
+          <rect id="Rectangle_7" data-name="Rectangle 7" width="188" height="36" rx="18" fill="#40b3e0"/>
+        </g>
+        <text id="LOGIN-2" data-name="LOGIN" transform="translate(78 23)" fill="#fff" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">LOGIN</tspan></text>
+      </g>
+    </g>
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="147.5" cy="147.5" r="147.5" transform="translate(266.5 -147.5)" fill="#40b3e0"/>
+  </g>
+</svg>

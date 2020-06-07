@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="2073" viewBox="0 0 414 2073">
+  <defs>
+    <clipPath id="clip-home:mobile_1">
+      <rect width="414" height="2073"/>
+    </clipPath>
+  </defs>
+  <g id="home:mobile_1" data-name="home:mobile – 1" clip-path="url(#clip-home:mobile_1)">
+    <rect width="414" height="2073" fill="#fff"/>
+    <g id="nav-mobile" transform="translate(36)">
+      <g id="logo" transform="translate(0 14)">
+        <g id="Ellipse_1" data-name="Ellipse 1" fill="#fff" stroke="#707070" stroke-width="1">
+          <circle cx="25" cy="25" r="25" stroke="none"/>
+          <circle cx="25" cy="25" r="24.5" fill="none"/>
+        </g>
+        <text id="LOGO-2" data-name="LOGO" transform="translate(11 30)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">LOGO</tspan></text>
+      </g>
+      <path id="Rectangle_17" data-name="Rectangle 17" d="M0,0H103a0,0,0,0,1,0,0V77a0,0,0,0,1,0,0H71A71,71,0,0,1,0,6V0A0,0,0,0,1,0,0Z" transform="translate(275)" fill="#f2efef"/>
+      <g id="nav-burger" transform="translate(315 18)">
+        <g id="Rectangle_16" data-name="Rectangle 16" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="38" height="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="37" height="7" fill="none"/>
+        </g>
+        <g id="Rectangle_16-2" data-name="Rectangle 16" transform="translate(0 12)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="38" height="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="37" height="7" fill="none"/>
+        </g>
+        <g id="Rectangle_16-3" data-name="Rectangle 16" transform="translate(0 24)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="38" height="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="37" height="7" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <text id="Telegram_s_features" data-name="Telegram&apos;s features" transform="translate(128 684)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Telegram&apos;s features</tspan></text>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="254" height="179" rx="22" transform="translate(77.5 750)" fill="#fafafa"/>
+    <rect id="Rectangle_20" data-name="Rectangle 20" width="414" height="524" transform="translate(0 1561.5)" fill="#f7f7f7"/>
+    <text id="Home" transform="translate(207 1675.5)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-24.205" y="0">Home</tspan></text>
+    <text id="About" transform="translate(207 1751.5)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-23.955" y="0">About</tspan></text>
+    <text id="Contact" transform="translate(207 1830.5)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-31.443" y="0">Contact</tspan></text>
+    <text id="News" transform="translate(207 1906.5)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-22.588" y="0">News</tspan></text>
+    <text id="Donate" transform="translate(207 1982.5)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-28.604" y="0">Donate</tspan></text>
+    <g id="Group_12" data-name="Group 12" transform="translate(916 40)">
+      <text id="Full_End-To-End_ecnryption" data-name="Full End-To-End ecnryption" transform="translate(-709 956)" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-95.496" y="0">Full End-To-End ecnryption</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit._Duis_ex_eros_scelerisque_id_mauris_non_condimentum_sollicitudin_libero._Phasellus_ac_nisl_ac_orci_convallis_venenatis._Aliquam_erat_volutpat._Aliquam_odio_tortor_pharetra_ac_tellus_a_feugiat_cons" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ex eros, scelerisque id mauris non, condimentum sollicitudin libero. Phasellus ac nisl ac orci convallis venenatis. Aliquam erat volutpat. Aliquam odio tortor, pharetra ac tellus a, feugiat cons" transform="translate(-836 1004.554)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="1.219" y="15">Lorem ipsum dolor sit amet, consectetur </tspan><tspan x="3.728" y="45">adipiscing elit. Duis ex eros, scelerisque </tspan><tspan x="2.986" y="75">id mauris non, condimentum sollicitudin </tspan><tspan x="2.33" y="105">libero. Phasellus ac nisl ac orci convallis </tspan><tspan x="25.206" y="135">venenatis. Aliquam erat volutpat. </tspan><tspan x="3.437" y="165">Aliquam odio tortor, pharetra ac tellus a, </tspan><tspan x="1.359" y="195">feugiat consequat augue. Proin euismod </tspan><tspan x="9.494" y="225">imperdiet elit ut efficitur. Pellentesque </tspan><tspan x="36.239" y="255">hendrerit nisl ut erat placerat.</tspan></text>
+    </g>
+    <rect id="Rectangle_23" data-name="Rectangle 23" width="342" height="218" rx="62" transform="translate(36 123)" fill="#f5f5f5"/>
+    <g id="Group_13" data-name="Group 13" transform="translate(3101 -1737)">
+      <text id="What_makes_Telegram_special_" data-name="What makes Telegram special?" transform="translate(-3018.5 2143)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">What makes Telegram special?</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit._Duis_ex_eros_scelerisque_id_mauris_non_condimentum_sollicitudin_libero._Phasellus_ac_nisl_ac_orci_convallis_venenatis._Aliquam_erat_volutpat._Aliquam_odio_tortor_pharetra_ac_tellus_a_feugiat_cons-2" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ex eros, scelerisque id mauris non, condimentum sollicitudin libero. Phasellus ac nisl ac orci convallis venenatis. Aliquam erat volutpat. Aliquam odio tortor, pharetra ac tellus a, feugiat cons" transform="translate(-3064.5 2190)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="11.144" y="15">Lorem ipsum dolor sit amet, consectetur adipiscing </tspan><tspan x="35.388" y="45">elit. Duis ex eros, scelerisque id mauris non, </tspan><tspan x="7.993" y="75">condimentum sollicitudin libero. Phasellus ac nisl ac </tspan><tspan x="26.21" y="105">orci convallis venenatis. Aliquam erat volutpat. </tspan></text>
+    </g>
+    <path id="Path_1" data-name="Path 1" d="M10.5,0A10.5,10.5,0,1,1,0,10.5,10.5,10.5,0,0,1,10.5,0Z" transform="translate(134.5 1382)" fill="#f64c4c"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="10.5" cy="10.5" r="10.5" transform="translate(196.5 1382)" fill="#d9d0d0"/>
+    <circle id="Ellipse_3-2" data-name="Ellipse 3" cx="10.5" cy="10.5" r="10.5" transform="translate(258.5 1382)" fill="#d9d0d0"/>
+  </g>
+</svg>

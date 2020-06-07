@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="2995" viewBox="0 0 414 2995">
+  <defs>
+    <clipPath id="clip-news:mobile">
+      <rect width="414" height="2995"/>
+    </clipPath>
+  </defs>
+  <g id="news:mobile" clip-path="url(#clip-news:mobile)">
+    <rect width="414" height="2995" fill="#fff"/>
+    <g id="nav-mobile" transform="translate(36)">
+      <g id="logo" transform="translate(0 14)">
+        <g id="Ellipse_1" data-name="Ellipse 1" fill="#fff" stroke="#707070" stroke-width="1">
+          <circle cx="25" cy="25" r="25" stroke="none"/>
+          <circle cx="25" cy="25" r="24.5" fill="none"/>
+        </g>
+        <text id="LOGO-2" data-name="LOGO" transform="translate(11 30)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">LOGO</tspan></text>
+      </g>
+      <path id="Rectangle_17" data-name="Rectangle 17" d="M0,0H103a0,0,0,0,1,0,0V77a0,0,0,0,1,0,0H71A71,71,0,0,1,0,6V0A0,0,0,0,1,0,0Z" transform="translate(275)" fill="#f2efef"/>
+      <g id="nav-burger" transform="translate(315 18)">
+        <g id="Rectangle_16" data-name="Rectangle 16" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="38" height="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="37" height="7" fill="none"/>
+        </g>
+        <g id="Rectangle_16-2" data-name="Rectangle 16" transform="translate(0 12)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="38" height="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="37" height="7" fill="none"/>
+        </g>
+        <g id="Rectangle_16-3" data-name="Rectangle 16" transform="translate(0 24)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="38" height="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="37" height="7" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_20" data-name="Rectangle 20" width="414" height="524" transform="translate(0 2490)" fill="#f7f7f7"/>
+    <text id="Home" transform="translate(207 2604)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-24.205" y="0">Home</tspan></text>
+    <text id="About" transform="translate(207 2680)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-23.955" y="0">About</tspan></text>
+    <text id="Contact" transform="translate(207 2759)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-31.443" y="0">Contact</tspan></text>
+    <text id="News" transform="translate(207 2835)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-22.588" y="0">News</tspan></text>
+    <text id="Donate" transform="translate(207 2911)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-28.604" y="0">Donate</tspan></text>
+    <g id="article-card" transform="translate(36 203)">
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="342" height="488" fill="#fff"/>
+      <text id="Stay_safe_with_our_E2E_encryption" data-name="Stay safe with our E2E encryption" transform="translate(33 230)" font-size="18" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Stay safe with our E2E encryption</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit._Duis_ex_eros_scelerisque_id_mauris_non_condimentum_sollicitudin_libero._Phasellus_ac_nisl_ac_orci_convallis_venenatis._Aliquam_erat_volutpat._Aliquam_odio_tortor_pharetra_ac_tellus_a_feugiat_cons" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ex eros, scelerisque id mauris non, condimentum sollicitudin libero. Phasellus ac nisl ac orci convallis venenatis. Aliquam erat volutpat. Aliquam odio tortor, pharetra ac tellus a, feugiat cons" transform="translate(33 264)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="19">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="49">consectetur adipiscing elit. </tspan><tspan x="0" y="79">Duis ex eros, scelerisque id </tspan><tspan x="0" y="109">mauris non, condimentum </tspan><tspan x="0" y="139">sollicitudin libero. Phasellus ac </tspan><tspan x="0" y="169">nisl ac orci convallis </tspan></text>
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="342" height="182" fill="#eceaea"/>
+    </g>
+    <g id="article-card-2" data-name="article-card" transform="translate(36 736)">
+      <rect id="Rectangle_12-2" data-name="Rectangle 12" width="342" height="488" fill="#fff"/>
+      <text id="Stay_safe_with_our_E2E_encryption-2" data-name="Stay safe with our E2E encryption" transform="translate(33 230)" font-size="18" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Stay safe with our E2E encryption</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit._Duis_ex_eros_scelerisque_id_mauris_non_condimentum_sollicitudin_libero._Phasellus_ac_nisl_ac_orci_convallis_venenatis._Aliquam_erat_volutpat._Aliquam_odio_tortor_pharetra_ac_tellus_a_feugiat_cons-2" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ex eros, scelerisque id mauris non, condimentum sollicitudin libero. Phasellus ac nisl ac orci convallis venenatis. Aliquam erat volutpat. Aliquam odio tortor, pharetra ac tellus a, feugiat cons" transform="translate(33 264)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="19">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="49">consectetur adipiscing elit. </tspan><tspan x="0" y="79">Duis ex eros, scelerisque id </tspan><tspan x="0" y="109">mauris non, condimentum </tspan><tspan x="0" y="139">sollicitudin libero. Phasellus ac </tspan><tspan x="0" y="169">nisl ac orci convallis </tspan></text>
+      <rect id="Rectangle_13-2" data-name="Rectangle 13" width="342" height="182" fill="#eceaea"/>
+    </g>
+    <text id="Read_our_articles" data-name="Read our articles" transform="translate(139.5 163)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Read our articles</tspan></text>
+    <g id="article-card-3" data-name="article-card" transform="translate(36 1269)">
+      <rect id="Rectangle_12-3" data-name="Rectangle 12" width="342" height="488" fill="#fff"/>
+      <text id="Stay_safe_with_our_E2E_encryption-3" data-name="Stay safe with our E2E encryption" transform="translate(33 230)" font-size="18" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Stay safe with our E2E encryption</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit._Duis_ex_eros_scelerisque_id_mauris_non_condimentum_sollicitudin_libero._Phasellus_ac_nisl_ac_orci_convallis_venenatis._Aliquam_erat_volutpat._Aliquam_odio_tortor_pharetra_ac_tellus_a_feugiat_cons-3" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ex eros, scelerisque id mauris non, condimentum sollicitudin libero. Phasellus ac nisl ac orci convallis venenatis. Aliquam erat volutpat. Aliquam odio tortor, pharetra ac tellus a, feugiat cons" transform="translate(33 264)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="19">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="49">consectetur adipiscing elit. </tspan><tspan x="0" y="79">Duis ex eros, scelerisque id </tspan><tspan x="0" y="109">mauris non, condimentum </tspan><tspan x="0" y="139">sollicitudin libero. Phasellus ac </tspan><tspan x="0" y="169">nisl ac orci convallis </tspan></text>
+      <rect id="Rectangle_13-3" data-name="Rectangle 13" width="342" height="182" fill="#eceaea"/>
+    </g>
+    <g id="article-card-4" data-name="article-card" transform="translate(36 1802)">
+      <rect id="Rectangle_12-4" data-name="Rectangle 12" width="342" height="488" fill="#fff"/>
+      <text id="Stay_safe_with_our_E2E_encryption-4" data-name="Stay safe with our E2E encryption" transform="translate(33 230)" font-size="18" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Stay safe with our E2E encryption</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit._Duis_ex_eros_scelerisque_id_mauris_non_condimentum_sollicitudin_libero._Phasellus_ac_nisl_ac_orci_convallis_venenatis._Aliquam_erat_volutpat._Aliquam_odio_tortor_pharetra_ac_tellus_a_feugiat_cons-4" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ex eros, scelerisque id mauris non, condimentum sollicitudin libero. Phasellus ac nisl ac orci convallis venenatis. Aliquam erat volutpat. Aliquam odio tortor, pharetra ac tellus a, feugiat cons" transform="translate(33 264)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="19">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="49">consectetur adipiscing elit. </tspan><tspan x="0" y="79">Duis ex eros, scelerisque id </tspan><tspan x="0" y="109">mauris non, condimentum </tspan><tspan x="0" y="139">sollicitudin libero. Phasellus ac </tspan><tspan x="0" y="169">nisl ac orci convallis </tspan></text>
+      <rect id="Rectangle_13-4" data-name="Rectangle 13" width="342" height="182" fill="#eceaea"/>
+    </g>
+    <g id="Group_14" data-name="Group 14" transform="translate(919 -3034)">
+      <text id="_1" data-name="1" transform="translate(-861 5390)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">1</tspan></text>
+      <text id="_2" data-name="2" transform="translate(-801 5390)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2</tspan></text>
+      <text id="_3" data-name="3" transform="translate(-741 5390)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">3</tspan></text>
+      <text id="_4" data-name="4" transform="translate(-681 5390)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">4</tspan></text>
+      <text id="_5" data-name="5" transform="translate(-619 5390)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">5</tspan></text>
+      <rect id="Rectangle_24" data-name="Rectangle 24" width="33" height="8" transform="translate(-869 5399)" fill="#919191"/>
+    </g>
+  </g>
+</svg>

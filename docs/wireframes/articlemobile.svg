@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="2495" viewBox="0 0 414 2495">
+  <defs>
+    <clipPath id="clip-article:mobile">
+      <rect width="414" height="2495"/>
+    </clipPath>
+  </defs>
+  <g id="article:mobile" clip-path="url(#clip-article:mobile)">
+    <rect width="414" height="2495" fill="#fff"/>
+    <g id="nav-mobile" transform="translate(36)">
+      <g id="logo" transform="translate(0 14)">
+        <g id="Ellipse_1" data-name="Ellipse 1" fill="#fff" stroke="#707070" stroke-width="1">
+          <circle cx="25" cy="25" r="25" stroke="none"/>
+          <circle cx="25" cy="25" r="24.5" fill="none"/>
+        </g>
+        <text id="LOGO-2" data-name="LOGO" transform="translate(11 30)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">LOGO</tspan></text>
+      </g>
+      <path id="Rectangle_17" data-name="Rectangle 17" d="M0,0H103a0,0,0,0,1,0,0V77a0,0,0,0,1,0,0H71A71,71,0,0,1,0,6V0A0,0,0,0,1,0,0Z" transform="translate(275)" fill="#f2efef"/>
+      <g id="nav-burger" transform="translate(315 18)">
+        <g id="Rectangle_16" data-name="Rectangle 16" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="38" height="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="37" height="7" fill="none"/>
+        </g>
+        <g id="Rectangle_16-2" data-name="Rectangle 16" transform="translate(0 12)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="38" height="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="37" height="7" fill="none"/>
+        </g>
+        <g id="Rectangle_16-3" data-name="Rectangle 16" transform="translate(0 24)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="38" height="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="37" height="7" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_20" data-name="Rectangle 20" width="414" height="524" transform="translate(0 1977)" fill="#f7f7f7"/>
+    <text id="Home" transform="translate(207 2091)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-24.205" y="0">Home</tspan></text>
+    <text id="About" transform="translate(207 2167)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-23.955" y="0">About</tspan></text>
+    <text id="Contact" transform="translate(207 2246)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-31.443" y="0">Contact</tspan></text>
+    <text id="News" transform="translate(207 2322)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-22.588" y="0">News</tspan></text>
+    <text id="Donate" transform="translate(207 2398)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-28.604" y="0">Donate</tspan></text>
+    <rect id="Rectangle_29" data-name="Rectangle 29" width="342" height="348" transform="translate(36 132)" fill="#eceaea"/>
+    <text id="Say_hello_to_End-To-End_Encryption" data-name="Say hello to End-To-End Encryption" transform="translate(34 519)" font-size="32" font-family="Roboto-Regular, Roboto"><tspan x="0" y="34">Say hello to End-To-End </tspan><tspan x="0" y="77">Encryption</tspan></text>
+    <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit._Duis_porttitor_lectus_eget_lacinia_blandit._Maecenas_ligula_dolor_porta_nec_semper_eu_blandit_vitae_tellus._Aenean_sodales_dui_vel_eleifend_accumsan_turpis_leo_eleifend_justo_ut_rhoncus_turpis_e" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis porttitor lectus eget lacinia blandit. Maecenas ligula dolor, porta nec semper eu, blandit vitae tellus. Aenean sodales, dui vel eleifend accumsan, turpis leo eleifend justo, ut rhoncus turpis e" transform="translate(36 689)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="19">Lorem ipsum dolor sit amet, consectetur </tspan><tspan x="0" y="49">adipiscing elit. Duis porttitor lectus eget </tspan><tspan x="0" y="79">lacinia blandit. Maecenas ligula dolor, </tspan><tspan x="0" y="109">porta nec semper eu, blandit vitae tellus. </tspan><tspan x="0" y="139">Aenean sodales, dui vel eleifend </tspan><tspan x="0" y="169">accumsan, turpis leo eleifend justo, ut </tspan><tspan x="0" y="199">rhoncus turpis erat vitae erat. Donec </tspan><tspan x="0" y="229">pharetra euismod justo, sit amet tincidunt </tspan><tspan x="0" y="259">massa ornare et. Phasellus et quam felis. </tspan><tspan x="0" y="289">Ut gravida lobortis enim quis cursus. </tspan><tspan x="0" y="319">Nullam ut velit scelerisque, placerat enim </tspan><tspan x="0" y="349">id, euismod ante. Donec nec enim non </tspan><tspan x="0" y="379">purus facilisis efficitur vel ac urna. Donec </tspan><tspan x="0" y="409">eget odio pulvinar, ullamcorper sem eu, </tspan><tspan x="0" y="439">pretium ante. Maecenas nibh metus, </tspan><tspan x="0" y="469">rhoncus at tellus et, viverra scelerisque </tspan><tspan x="0" y="499">lectus. Aenean nec magna id leo facilisis </tspan><tspan x="0" y="529">blandit at vitae lectus. Suspendisse </tspan><tspan x="0" y="559">convallis condimentum est, non cursus </tspan><tspan x="0" y="589">sem. In semper, purus vel pulvinar </tspan><tspan x="0" y="619">faucibus, orci nunc blandit tellus, </tspan><tspan x="0" y="649">condimentum efficitur lectus nisi tempus </tspan><tspan x="0" y="679">felis. Pellentesque convallis pellentesque </tspan><tspan x="0" y="709">tortor. Pellentesque egestas porttitor eros </tspan><tspan x="0" y="739">consequat lacinia.</tspan><tspan x="0" y="769"></tspan><tspan x="0" y="799">Duis odio turpis, scelerisque id nulla at, </tspan><tspan x="0" y="829">tempus vehicula lorem. Vivamus eget </tspan><tspan x="0" y="859">turpis facilisis, lacinia sem a, ultricies ex. </tspan><tspan x="0" y="889">Donec a sapien orci. Sed sit amet gravida </tspan><tspan x="0" y="919">nulla. Sed molestie velit vitae odio viverra, </tspan><tspan x="0" y="949">non laoreet nulla consectetur. Donec nec </tspan><tspan x="0" y="979">ligula non dolor venenatis convallis et et </tspan><tspan x="0" y="1009">metus. Donec felis eros, dictum eget </tspan><tspan x="0" y="1039">molestie vel, consectetur placerat urna. </tspan><tspan x="0" y="1069">Sed pretium vulputate fringilla. Sed </tspan><tspan x="0" y="1099">pretium nibh ex, vel efficitur magna </tspan><tspan x="0" y="1129">eleifend vitae. Suspendisse vel mattis </tspan><tspan x="0" y="1159">arcu. Quisque id massa vel sapien semper </tspan><tspan x="0" y="1189">ultrices. Sed bibendum sapien sit amet est </tspan><tspan x="0" y="1219">interdum bibendum.</tspan></text>
+  </g>
+</svg>

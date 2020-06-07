@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="5185" viewBox="0 0 414 5185">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="259" height="1153" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="342" height="507.5" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect width="336" height="58" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-home:mobile">
+      <rect width="414" height="5185"/>
+    </clipPath>
+  </defs>
+  <g id="home:mobile" clip-path="url(#clip-home:mobile)">
+    <rect width="414" height="5185" fill="#fff"/>
+    <g id="nav-mobile" transform="translate(36)">
+      <g id="logo" transform="translate(0 14)">
+        <g id="Ellipse_1" data-name="Ellipse 1" fill="#fff" stroke="#707070" stroke-width="1">
+          <circle cx="25" cy="25" r="25" stroke="none"/>
+          <circle cx="25" cy="25" r="24.5" fill="none"/>
+        </g>
+        <text id="LOGO-2" data-name="LOGO" transform="translate(11 30)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">LOGO</tspan></text>
+      </g>
+      <path id="Rectangle_17" data-name="Rectangle 17" d="M0,0H103a0,0,0,0,1,0,0V77a0,0,0,0,1,0,0H71A71,71,0,0,1,0,6V0A0,0,0,0,1,0,0Z" transform="translate(275)" fill="#f2efef"/>
+      <g id="nav-burger" transform="translate(315 18)">
+        <g id="Rectangle_16" data-name="Rectangle 16" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="38" height="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="37" height="7" fill="none"/>
+        </g>
+        <g id="Rectangle_16-2" data-name="Rectangle 16" transform="translate(0 12)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="38" height="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="37" height="7" fill="none"/>
+        </g>
+        <g id="Rectangle_16-3" data-name="Rectangle 16" transform="translate(0 24)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="38" height="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="37" height="7" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_18" data-name="Rectangle 18" width="414" height="262" transform="translate(0 106)" fill="#f7f7f7"/>
+    <g id="Group_10" data-name="Group 10" transform="translate(3390 -59)">
+      <text id="Introducing_Telegram" data-name="Introducing Telegram" transform="translate(-3354 202)" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="19">Introducing Telegram</tspan></text>
+      <text id="Complete_messaging_annonymity_because_we_care" data-name="Complete messaging annonymity, because we care" transform="translate(-3354 246)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Complete messaging annonymity, </tspan><tspan x="0" y="34">because we care</tspan></text>
+    </g>
+    <text id="Telegram_s_features" data-name="Telegram&apos;s features" transform="translate(128 434)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Telegram&apos;s features</tspan></text>
+    <g id="Repeat_Grid_5" data-name="Repeat Grid 5" transform="translate(77.5 495)" clip-path="url(#clip-path)">
+      <g transform="translate(-77.5 -479)">
+        <rect id="Rectangle_5" data-name="Rectangle 5" width="244" height="266" rx="47" transform="translate(87.5 484)" fill="#fafafa"/>
+      </g>
+      <g transform="translate(-77.5 -82)">
+        <rect id="Rectangle_5-2" data-name="Rectangle 5" width="244" height="266" rx="47" transform="translate(87.5 484)" fill="#fafafa"/>
+      </g>
+      <g transform="translate(-77.5 315)">
+        <rect id="Rectangle_5-3" data-name="Rectangle 5" width="244" height="266" rx="47" transform="translate(87.5 484)" fill="#fafafa"/>
+      </g>
+    </g>
+    <g id="article-card" transform="translate(36 2160)">
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="342" height="488" fill="#fff"/>
+      <text id="Stay_safe_with_our_E2E_encryption" data-name="Stay safe with our E2E encryption" transform="translate(33 230)" font-size="18" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Stay safe with our E2E encryption</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit._Duis_ex_eros_scelerisque_id_mauris_non_condimentum_sollicitudin_libero._Phasellus_ac_nisl_ac_orci_convallis_venenatis._Aliquam_erat_volutpat._Aliquam_odio_tortor_pharetra_ac_tellus_a_feugiat_cons" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ex eros, scelerisque id mauris non, condimentum sollicitudin libero. Phasellus ac nisl ac orci convallis venenatis. Aliquam erat volutpat. Aliquam odio tortor, pharetra ac tellus a, feugiat cons" transform="translate(33 264)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="19">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="49">consectetur adipiscing elit. </tspan><tspan x="0" y="79">Duis ex eros, scelerisque id </tspan><tspan x="0" y="109">mauris non, condimentum </tspan><tspan x="0" y="139">sollicitudin libero. Phasellus ac </tspan><tspan x="0" y="169">nisl ac orci convallis </tspan></text>
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="342" height="182" fill="#eceaea"/>
+    </g>
+    <g id="article-card-2" data-name="article-card" transform="translate(36 2693)">
+      <rect id="Rectangle_12-2" data-name="Rectangle 12" width="342" height="488" fill="#fff"/>
+      <text id="Stay_safe_with_our_E2E_encryption-2" data-name="Stay safe with our E2E encryption" transform="translate(33 230)" font-size="18" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Stay safe with our E2E encryption</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit._Duis_ex_eros_scelerisque_id_mauris_non_condimentum_sollicitudin_libero._Phasellus_ac_nisl_ac_orci_convallis_venenatis._Aliquam_erat_volutpat._Aliquam_odio_tortor_pharetra_ac_tellus_a_feugiat_cons-2" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ex eros, scelerisque id mauris non, condimentum sollicitudin libero. Phasellus ac nisl ac orci convallis venenatis. Aliquam erat volutpat. Aliquam odio tortor, pharetra ac tellus a, feugiat cons" transform="translate(33 264)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="19">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="49">consectetur adipiscing elit. </tspan><tspan x="0" y="79">Duis ex eros, scelerisque id </tspan><tspan x="0" y="109">mauris non, condimentum </tspan><tspan x="0" y="139">sollicitudin libero. Phasellus ac </tspan><tspan x="0" y="169">nisl ac orci convallis </tspan></text>
+      <rect id="Rectangle_13-2" data-name="Rectangle 13" width="342" height="182" fill="#eceaea"/>
+    </g>
+    <text id="Read_our_articles" data-name="Read our articles" transform="translate(139.5 2120)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Read our articles</tspan></text>
+    <rect id="Rectangle_19" data-name="Rectangle 19" width="414" height="341" transform="translate(0 1661)" fill="#f5f5f5"/>
+    <g id="Group_11" data-name="Group 11" transform="translate(3101 -415)">
+      <text id="What_makes_Telegram_special_" data-name="What makes Telegram special?" transform="translate(-3018.5 2143)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">What makes Telegram special?</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit._Duis_ex_eros_scelerisque_id_mauris_non_condimentum_sollicitudin_libero._Phasellus_ac_nisl_ac_orci_convallis_venenatis._Aliquam_erat_volutpat._Aliquam_odio_tortor_pharetra_ac_tellus_a_feugiat_cons-3" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ex eros, scelerisque id mauris non, condimentum sollicitudin libero. Phasellus ac nisl ac orci convallis venenatis. Aliquam erat volutpat. Aliquam odio tortor, pharetra ac tellus a, feugiat cons" transform="translate(-3064.5 2190)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="11.144" y="15">Lorem ipsum dolor sit amet, consectetur adipiscing </tspan><tspan x="35.388" y="45">elit. Duis ex eros, scelerisque id mauris non, </tspan><tspan x="7.993" y="75">condimentum sollicitudin libero. Phasellus ac nisl ac </tspan><tspan x="26.21" y="105">orci convallis venenatis. Aliquam erat volutpat. </tspan></text>
+      <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(-2994.5 2331)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="201" height="38" rx="19" stroke="none"/>
+        <rect x="0.5" y="0.5" width="200" height="37" rx="18.5" fill="none"/>
+      </g>
+      <text id="Learn_more" data-name="Learn more" transform="translate(-2894 2356)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-35.451" y="0">Learn more</tspan></text>
+    </g>
+    <text id="Recent_donations" data-name="Recent donations" transform="translate(137 3274)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Recent donations</tspan></text>
+    <g id="Repeat_Grid_4" data-name="Repeat Grid 4" transform="translate(36 3342)" clip-path="url(#clip-path-2)">
+      <g id="Group_7" data-name="Group 7" transform="translate(-278 -2889)">
+        <g id="Repeat_Grid_3" data-name="Repeat Grid 3" transform="translate(284 2889)" clip-path="url(#clip-path-3)">
+          <g id="Group_6" data-name="Group 6" transform="translate(-284 -2889)">
+            <text id="Arnold_Schwarz" data-name="Arnold Schwarz" transform="translate(385 2908)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Arnold Schwarz</tspan></text>
+            <text id="Finally_a_way_to_be_completely_annonymous" data-name="Finally a way to be completely annonymous" transform="translate(385 2935)" font-size="14" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">Finally a way to be completely annonymous</tspan></text>
+            <circle id="Ellipse_2" data-name="Ellipse 2" cx="27.5" cy="27.5" r="27.5" transform="translate(284 2889)" fill="#e7e7e7"/>
+          </g>
+        </g>
+        <line id="Line_1" data-name="Line 1" x2="378" transform="translate(278 2974)" fill="none" stroke="#707070" stroke-width="1" opacity="0.13"/>
+      </g>
+      <g id="Group_7-2" data-name="Group 7" transform="translate(-278 -2783)">
+        <g id="Repeat_Grid_3-2" data-name="Repeat Grid 3" transform="translate(284 2889)" clip-path="url(#clip-path-3)">
+          <g id="Group_6-2" data-name="Group 6" transform="translate(-284 -2889)">
+            <text id="Arnold_Schwarz-2" data-name="Arnold Schwarz" transform="translate(385 2908)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Arnold Schwarz</tspan></text>
+            <text id="Finally_a_way_to_be_completely_annonymous-2" data-name="Finally a way to be completely annonymous" transform="translate(385 2935)" font-size="14" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">Finally a way to be completely annonymous</tspan></text>
+            <circle id="Ellipse_2-2" data-name="Ellipse 2" cx="27.5" cy="27.5" r="27.5" transform="translate(284 2889)" fill="#e7e7e7"/>
+          </g>
+        </g>
+        <line id="Line_1-2" data-name="Line 1" x2="378" transform="translate(278 2974)" fill="none" stroke="#707070" stroke-width="1" opacity="0.13"/>
+      </g>
+      <g id="Group_7-3" data-name="Group 7" transform="translate(-278 -2677)">
+        <g id="Repeat_Grid_3-3" data-name="Repeat Grid 3" transform="translate(284 2889)" clip-path="url(#clip-path-3)">
+          <g id="Group_6-3" data-name="Group 6" transform="translate(-284 -2889)">
+            <text id="Arnold_Schwarz-3" data-name="Arnold Schwarz" transform="translate(385 2908)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Arnold Schwarz</tspan></text>
+            <text id="Finally_a_way_to_be_completely_annonymous-3" data-name="Finally a way to be completely annonymous" transform="translate(385 2935)" font-size="14" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">Finally a way to be completely annonymous</tspan></text>
+            <circle id="Ellipse_2-3" data-name="Ellipse 2" cx="27.5" cy="27.5" r="27.5" transform="translate(284 2889)" fill="#e7e7e7"/>
+          </g>
+        </g>
+        <line id="Line_1-3" data-name="Line 1" x2="378" transform="translate(278 2974)" fill="none" stroke="#707070" stroke-width="1" opacity="0.13"/>
+      </g>
+      <g id="Group_7-4" data-name="Group 7" transform="translate(-278 -2571)">
+        <g id="Repeat_Grid_3-4" data-name="Repeat Grid 3" transform="translate(284 2889)" clip-path="url(#clip-path-3)">
+          <g id="Group_6-4" data-name="Group 6" transform="translate(-284 -2889)">
+            <text id="Arnold_Schwarz-4" data-name="Arnold Schwarz" transform="translate(385 2908)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Arnold Schwarz</tspan></text>
+            <text id="Finally_a_way_to_be_completely_annonymous-4" data-name="Finally a way to be completely annonymous" transform="translate(385 2935)" font-size="14" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">Finally a way to be completely annonymous</tspan></text>
+            <circle id="Ellipse_2-4" data-name="Ellipse 2" cx="27.5" cy="27.5" r="27.5" transform="translate(284 2889)" fill="#e7e7e7"/>
+          </g>
+        </g>
+        <line id="Line_1-4" data-name="Line 1" x2="378" transform="translate(278 2974)" fill="none" stroke="#707070" stroke-width="1" opacity="0.13"/>
+      </g>
+      <g id="Group_7-5" data-name="Group 7" transform="translate(-278 -2465)">
+        <g id="Repeat_Grid_3-5" data-name="Repeat Grid 3" transform="translate(284 2889)" clip-path="url(#clip-path-3)">
+          <g id="Group_6-5" data-name="Group 6" transform="translate(-284 -2889)">
+            <text id="Arnold_Schwarz-5" data-name="Arnold Schwarz" transform="translate(385 2908)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Arnold Schwarz</tspan></text>
+            <text id="Finally_a_way_to_be_completely_annonymous-5" data-name="Finally a way to be completely annonymous" transform="translate(385 2935)" font-size="14" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">Finally a way to be completely annonymous</tspan></text>
+            <circle id="Ellipse_2-5" data-name="Ellipse 2" cx="27.5" cy="27.5" r="27.5" transform="translate(284 2889)" fill="#e7e7e7"/>
+          </g>
+        </g>
+        <line id="Line_1-5" data-name="Line 1" x2="378" transform="translate(278 2974)" fill="none" stroke="#707070" stroke-width="1" opacity="0.13"/>
+      </g>
+    </g>
+    <g id="contact_form" data-name="contact form" transform="translate(36 3928)">
+      <text id="Contact_us" data-name="Contact us" transform="translate(0 19)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Contact us</tspan></text>
+      <g id="Group_8" data-name="Group 8" transform="translate(0 82)">
+        <text id="email" transform="translate(0 15)" font-size="14" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">email</tspan></text>
+        <rect id="Rectangle_9" data-name="Rectangle 9" width="342" height="52" transform="translate(0 45)" fill="#f7f7f7"/>
+      </g>
+      <g id="Group_8-2" data-name="Group 8" transform="translate(0 199)">
+        <text id="subject" transform="translate(0 15)" font-size="14" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">subject</tspan></text>
+        <rect id="Rectangle_9-2" data-name="Rectangle 9" width="342" height="52" transform="translate(0 45)" fill="#f7f7f7"/>
+      </g>
+      <g id="Group_8-3" data-name="Group 8" transform="translate(0 316)">
+        <text id="message" transform="translate(0 15)" font-size="14" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">message</tspan></text>
+        <rect id="Rectangle_9-3" data-name="Rectangle 9" width="342" height="174" transform="translate(0 45)" fill="#f7f7f7"/>
+      </g>
+      <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(0 581)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="215" height="48" rx="24" stroke="none"/>
+        <rect x="0.5" y="0.5" width="214" height="47" rx="23.5" fill="none"/>
+      </g>
+      <text id="Send" transform="translate(88 611)" font-size="14" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">Send</tspan></text>
+    </g>
+    <rect id="Rectangle_20" data-name="Rectangle 20" width="414" height="524" transform="translate(0 4673)" fill="#f7f7f7"/>
+    <text id="Home" transform="translate(207 4787)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-24.205" y="0">Home</tspan></text>
+    <text id="About" transform="translate(207 4863)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-23.955" y="0">About</tspan></text>
+    <text id="Contact" transform="translate(207 4942)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-31.443" y="0">Contact</tspan></text>
+    <text id="News" transform="translate(207 5018)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-22.588" y="0">News</tspan></text>
+    <text id="Donate" transform="translate(207 5094)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-28.604" y="0">Donate</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_31" data-name="Rectangle 31" width="1228" height="1080" fill="#eceaea"/>
+    </clipPath>
+    <clipPath id="clip-login-color">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="login-color" clip-path="url(#clip-login-color)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <rect id="Rectangle_254" data-name="Rectangle 254" width="1228" height="1080" fill="#395bed"/>
+    <g id="Mask_Group_11" data-name="Mask Group 11" clip-path="url(#clip-path)">
+      <g id="telegram" transform="translate(74)">
+        <g id="Group_34" data-name="Group 34" transform="translate(284 239)">
+          <path id="Path_1375" data-name="Path 1375" d="M301,0C134.761,0,0,134.761,0,301H0C0,467.239,134.761,602,301,602h0c166.239,0,301-134.761,301-301h0C602,134.761,467.239,0,301,0Z" fill="#40b3e0"/>
+          <path id="Path_1376" data-name="Path 1376" d="M532.852,302.366,479.091,573.424s-7.518,18.8-28.2,9.775L326.832,488.083l-45.113-21.8-75.941-25.566s-11.654-4.134-12.783-13.157,13.159-13.909,13.159-13.909L508.038,295.222s24.814-10.9,24.814,7.144" transform="translate(-85.39 -129.219)" fill="#fff"/>
+          <path id="Path_1377" data-name="Path 1377" d="M387.8,614.6s-3.621-.339-8.134-14.629S352.218,510.5,352.218,510.5L534.552,394.706s10.528-6.392,10.152,0c0,0,1.879,1.126-3.76,6.389S397.707,530.046,397.707,530.046" transform="translate(-155.889 -173.436)" fill="#d2e5f1"/>
+          <path id="Path_1378" data-name="Path 1378" d="M473.147,679.635l-49.07,44.741s-3.838,2.911-8.034,1.086l9.4-83.107" transform="translate(-184.137 -284.302)" fill="#b5cfe4"/>
+        </g>
+      </g>
+    </g>
+    <g id="contact_form" data-name="contact form" transform="translate(1309 182)">
+      <text id="Login" transform="translate(0 34)" font-size="32" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Login</tspan></text>
+      <g id="Group_8" data-name="Group 8" transform="translate(0 97)">
+        <text id="email" transform="translate(0 15)" font-size="14" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">email</tspan></text>
+        <rect id="Rectangle_9" data-name="Rectangle 9" width="471" height="52" transform="translate(0 45)" fill="#f7f7f7"/>
+      </g>
+      <g id="Group_8-2" data-name="Group 8" transform="translate(0 214)">
+        <text id="password" transform="translate(0 15)" font-size="14" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">password</tspan></text>
+        <rect id="Rectangle_9-2" data-name="Rectangle 9" width="471" height="52" transform="translate(0 45)" fill="#f7f7f7"/>
+      </g>
+      <g id="button" transform="translate(0 365)">
+        <g id="button-2" data-name="button">
+          <rect id="Rectangle_7" data-name="Rectangle 7" width="236" height="45" rx="22.5" fill="#40b3e0"/>
+        </g>
+        <text id="LOGIN-2" data-name="LOGIN" transform="translate(98 28)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">LOGIN</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

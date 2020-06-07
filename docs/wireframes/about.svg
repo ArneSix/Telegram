@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="2426" viewBox="0 0 1920 2426">
+  <defs>
+    <clipPath id="clip-about">
+      <rect width="1920" height="2426"/>
+    </clipPath>
+  </defs>
+  <g id="about" clip-path="url(#clip-about)">
+    <rect width="1920" height="2426" fill="#fff"/>
+    <g id="navigation">
+      <g id="nav" transform="translate(68 36)">
+        <g id="nav-btn" transform="translate(194)">
+          <g id="Rectangle_2" data-name="Rectangle 2" fill="#fff" stroke="#707070" stroke-width="1">
+            <rect width="198" height="59" rx="29.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="197" height="58" rx="29" fill="none"/>
+          </g>
+          <text id="About_us" data-name="About us" transform="translate(69 36)" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">About us</tspan></text>
+        </g>
+        <g id="Group_2" data-name="Group 2" transform="translate(233.2 -36)">
+          <g id="Rectangle_2-2" data-name="Rectangle 2" transform="translate(187.8 36)" fill="#fff" stroke="#707070" stroke-width="1">
+            <rect width="205" height="59" rx="29.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="204" height="58" rx="29" fill="none"/>
+          </g>
+          <text id="Contact" transform="translate(267.8 72)" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Contact</tspan></text>
+        </g>
+        <g id="Group_3" data-name="Group 3" transform="translate(467 -36)">
+          <g id="Rectangle_2-3" data-name="Rectangle 2" transform="translate(199 36)" fill="#fff" stroke="#707070" stroke-width="1">
+            <rect width="201" height="59" rx="29.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="200" height="58" rx="29" fill="none"/>
+          </g>
+          <text id="Privacy" transform="translate(277 72)" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Privacy</tspan></text>
+        </g>
+        <g id="Group_4" data-name="Group 4" transform="translate(710 -36)">
+          <g id="Rectangle_2-4" data-name="Rectangle 2" transform="translate(203 36)" fill="#fff" stroke="#707070" stroke-width="1">
+            <rect width="193" height="59" rx="29.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="192" height="58" rx="29" fill="none"/>
+          </g>
+          <text id="News" transform="translate(277 72)" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">News</tspan></text>
+        </g>
+        <g id="Group_5" data-name="Group 5" transform="translate(1301 -36)">
+          <g id="Rectangle_2-5" data-name="Rectangle 2" transform="translate(188 36)" fill="#fff" stroke="#707070" stroke-width="1">
+            <rect width="223" height="59" rx="29.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="222" height="58" rx="29" fill="none"/>
+          </g>
+          <text id="Donate_now" data-name="Donate now" transform="translate(259 72)" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Donate now</tspan></text>
+        </g>
+        <g id="logo">
+          <g id="Ellipse_1" data-name="Ellipse 1" fill="#fff" stroke="#707070" stroke-width="1">
+            <circle cx="28" cy="28" r="28" stroke="none"/>
+            <circle cx="28" cy="28" r="27.5" fill="none"/>
+          </g>
+          <text id="LOGO-2" data-name="LOGO" transform="translate(14 33)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">LOGO</tspan></text>
+        </g>
+      </g>
+      <rect id="Rectangle_21" data-name="Rectangle 21" width="1920" height="132" fill="none"/>
+    </g>
+    <text id="What_makes_Telegram_special_" data-name="What makes Telegram special?" transform="translate(263 244)" font-size="32" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">What makes Telegram special?</tspan></text>
+    <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit._Duis_ex_eros_scelerisque_id_mauris_non_condimentum_sollicitudin_libero._Phasellus_ac_nisl_ac_orci_convallis_venenatis._Aliquam_erat_volutpat._Aliquam_odio_tortor_pharetra_ac_tellus_a_feugiat_cons" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ex eros, scelerisque id mauris non, condimentum sollicitudin libero. Phasellus ac nisl ac orci convallis venenatis. Aliquam erat volutpat. Aliquam odio tortor, pharetra ac tellus a, feugiat cons" transform="translate(263 316)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="19">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ex </tspan><tspan x="0" y="49">eros, scelerisque id mauris non, condimentum sollicitudin libero. </tspan><tspan x="0" y="79">Phasellus ac nisl ac orci convallis venenatis. Aliquam erat volutpat. </tspan><tspan x="0" y="109">Aliquam odio tortor, pharetra ac tellus a, feugiat consequat augue. </tspan><tspan x="0" y="139">Proin euismod imperdiet elit ut efficitur. Pellentesque hendrerit nisl </tspan><tspan x="0" y="169">ut erat placerat.</tspan></text>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="960" height="405" transform="translate(952 210)" fill="#f7f7f7"/>
+    <g id="features" transform="translate(0 802)">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="1920" height="788" fill="#f7f7f7"/>
+      <text id="Telegram_s_features" data-name="Telegram&apos;s features" transform="translate(820 115)" font-size="32" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Telegram&apos;s features</tspan></text>
+    </g>
+    <rect id="Rectangle_22" data-name="Rectangle 22" width="398" height="403" rx="55" transform="translate(437.5 1025)" fill="#fff"/>
+    <path id="Polygon_2" data-name="Polygon 2" d="M42.2,13.577a9,9,0,0,1,15.606,0L92.25,73.515A9,9,0,0,1,84.447,87H15.553a9,9,0,0,1-7.8-13.485Z" transform="translate(140 1276.5) rotate(-90)" fill="#dbdafe"/>
+    <path id="Polygon_3" data-name="Polygon 3" d="M42.2,13.577a9,9,0,0,1,15.606,0L92.25,73.515A9,9,0,0,1,84.447,87H15.553a9,9,0,0,1-7.8-13.485Z" transform="translate(1780 1176.5) rotate(90)" fill="#dbdafe"/>
+    <text id="Full_End-To-End_ecnryption" data-name="Full End-To-End ecnryption" transform="translate(947.5 1098)" font-size="32" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Full End-To-End ecnryption</tspan></text>
+    <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit._Duis_ex_eros_scelerisque_id_mauris_non_condimentum_sollicitudin_libero._Phasellus_ac_nisl_ac_orci_convallis_venenatis._Aliquam_erat_volutpat._Aliquam_odio_tortor_pharetra_ac_tellus_a_feugiat_cons-2" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ex eros, scelerisque id mauris non, condimentum sollicitudin libero. Phasellus ac nisl ac orci convallis venenatis. Aliquam erat volutpat. Aliquam odio tortor, pharetra ac tellus a, feugiat cons" transform="translate(947.5 1166)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="19">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ex </tspan><tspan x="0" y="49">eros, scelerisque id mauris non, condimentum sollicitudin libero. </tspan><tspan x="0" y="79">Phasellus ac nisl ac orci convallis venenatis. Aliquam erat volutpat. </tspan><tspan x="0" y="109">Aliquam odio tortor, pharetra ac tellus a, feugiat consequat augue. </tspan><tspan x="0" y="139">Proin euismod imperdiet elit ut efficitur. Pellentesque hendrerit nisl </tspan><tspan x="0" y="169">ut erat placerat.</tspan></text>
+    <rect id="Rectangle_15" data-name="Rectangle 15" width="952" height="691" transform="translate(0 1756)" fill="#eceaea"/>
+    <text id="Home" transform="translate(1366 1916)" font-size="18" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Home</tspan></text>
+    <text id="About-2" data-name="About" transform="translate(1366 1992)" font-size="18" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">About</tspan></text>
+    <text id="Contact-2" data-name="Contact" transform="translate(1366 2068)" font-size="18" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Contact</tspan></text>
+    <text id="News-2" data-name="News" transform="translate(1366 2144)" font-size="18" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">News</tspan></text>
+    <text id="Donate" transform="translate(1366 2220)" font-size="18" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Donate</tspan></text>
+  </g>
+</svg>
