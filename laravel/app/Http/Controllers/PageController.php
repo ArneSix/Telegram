@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Article;
+use App\Donation;
 use App\Page;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
@@ -16,7 +17,13 @@ class PageController extends Controller
 
     public function home()
     {
-        return view("pages/home");
+        $articles = Article::all()->take(2);
+        $donations = Donation::all()->take(10);
+
+        return view("pages/home", [
+            'articles' => $articles,
+            'donations' => $donations,
+        ]);
     }
 
     public function about()
@@ -57,7 +64,7 @@ class PageController extends Controller
         $page = Page::where('slug', $pageSlug)->first();
 
         if (!$page) abort('404');
-        
+
         return view("pages.$page->template", [
             'page' => $page,
         ]);

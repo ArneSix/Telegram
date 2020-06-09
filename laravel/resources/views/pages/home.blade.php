@@ -48,28 +48,23 @@
                 <div class="col-md-12 text-center home-section-divider">
                     <p>Read our most popular articles</p>
                 </div>
-                <div class="col-md-6">
-                    <div class="card">
-                        <img class="card-img-top" src="..." alt="Card image cap">
-                        <div class="card-body">
-                            <h4>title</h4>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                @foreach($articles as $article)
+                        <div class="col-md-6">
+                            <a href="{{ route('article', $article->id) }}">
+                            <div class="card">
+                                <img class="card-img-top" src="{{$article->image}}" alt="Card image cap">
+                                <div class="card-body">
+                                    <h4>{{$article->title}}</h4>
+                                    <p class="card-text">{{ Str::limit($article->content, 100) }}</p>
+                                </div>
+                            </div>
+                            </a>
                         </div>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="card">
-                        <img class="card-img-top" src="..." alt="Card image cap">
-                        <div class="card-body">
-                            <h4>title</h4>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        </div>
-                    </div>
-                </div>
+                @endforeach
             </div>
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <a href="" class="btn-read-more">read more</a>
+                    <a href="{{route('articles')}}" class="btn-read-more">read more</a>
                 </div>
             </div>
         </div>
@@ -78,15 +73,15 @@
         <div class="row">
             <div class="col-md-6 donations">
                 <p class="section-donation-title">Recent donations</p>
-                <div class="donation-row">
-                    <div class="donation-image">
-                        <img src="" alt="">
+                @foreach($donations as $donation)
+                    <div class="donation-row">
+                        <div class="donation-info">
+                            <h5>{{$donation->name}}</h5>
+                            <p>{{Str::limit($donation->message, 20)}}</p>
+                            <p>{{$donation->amount}}</p>
+                        </div>
                     </div>
-                    <div class="donation-info">
-                        <h5>Name</h5>
-                        <p>Message</p>
-                    </div>
-                </div>
+                @endforeach
             </div>
             <div class="col-md-6">
                 <p class="section-contact-title">Contact us</p>

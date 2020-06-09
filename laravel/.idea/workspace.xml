@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f428dbd3-52ee-451f-a33f-f951655fc001" name="Default Changelist" comment="Added mailchimp and styled homepage" />
+    <list default="true" id="f428dbd3-52ee-451f-a33f-f951655fc001" name="Default Changelist" comment="Added mailchimp and styled homepage">
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pages/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/home.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -226,6 +231,8 @@
       <workItem from="1591099083785" duration="5109000" />
       <workItem from="1591124890569" duration="3267000" />
       <workItem from="1591358171166" duration="7454000" />
+      <workItem from="1591547710413" duration="757000" />
+      <workItem from="1591602420154" duration="2043000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed A LOT OF BUGS and cried in a corner">
       <created>1590944232377</created>
@@ -286,22 +293,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="426" y="613" key="ComposerInitDialogKey/0.0.2560.1400@0.0.2560.1400" timestamp="1590929289970" />
-    <state width="1258" height="395" key="GridCell.Tab.0.bottom" timestamp="1591365799868">
+    <state width="1235" height="394" key="GridCell.Tab.0.bottom" timestamp="1591616808872">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1258" height="395" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1591365799868" />
-    <state width="1258" height="395" key="GridCell.Tab.0.center" timestamp="1591365799868">
+    <state width="1235" height="394" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1591616808872" />
+    <state width="1235" height="394" key="GridCell.Tab.0.center" timestamp="1591616808871">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1258" height="395" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1591365799868" />
-    <state width="1258" height="395" key="GridCell.Tab.0.left" timestamp="1591365799867">
+    <state width="1235" height="394" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1591616808871" />
+    <state width="1235" height="394" key="GridCell.Tab.0.left" timestamp="1591616808871">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1258" height="395" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1591365799867" />
-    <state width="1258" height="395" key="GridCell.Tab.0.right" timestamp="1591365799868">
+    <state width="1235" height="394" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1591616808871" />
+    <state width="1235" height="394" key="GridCell.Tab.0.right" timestamp="1591616808871">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1258" height="395" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1591365799868" />
+    <state width="1235" height="394" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1591616808871" />
     <state x="232" y="437" key="Vcs.Push.Dialog.v2" timestamp="1591365787350">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
