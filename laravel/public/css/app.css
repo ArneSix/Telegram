@@ -11048,8 +11048,8 @@ a.text-dark:focus {
 }
 
 .dashboard-home-sidebar img {
-  width: 20px;
-  height: 20px;
+  width: 100%;
+  height: 25px;
 }
 
 .sidebar-icons {
@@ -11063,7 +11063,7 @@ a.text-dark:focus {
 
 .sidebar-icon {
   width: 100%;
-  height: 50px;
+  height: 75px;
 }
 
 .sidebar-icon:hover {

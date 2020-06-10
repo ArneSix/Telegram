@@ -48,35 +48,34 @@ Route::prefix('dashboard')->as('dashboard.')->group(function () {
 
         // CRUD routes for pages
 
-        Route::get('/page/create', 'DashboardController@pageCreate')->name('page.create');
-        Route::post('/page/store', 'DashboardController@pageStore')->name('page.store');
-        Route::get('/page/edit/{page}', 'DashboardController@pageEdit')->name('page.edit');
-        Route::patch('/page/update/{page}', 'DashboardController@pageUpdate')->name('page.update');
-        Route::delete('/page/delete/{page}', 'DashboardController@pageDelete')->name('page.delete');
+        Route::get('/page/create', 'PageController@create')->name('page.create');
+        Route::post('/page/store', 'PageController@store')->name('page.store');
+        Route::get('/page/edit/{page}', 'PageController@edit')->name('page.edit');
+        Route::patch('/page/update/{page}', 'PageController@update')->name('page.update');
+        Route::delete('/page/delete/{page}', 'PageController@delete')->name('page.delete');
 
         // CRUD routes for articles
         Route::get('/article', 'DashboardController@getIndexArticles')->name('index.articles');
 
-        Route::get('/article/create', 'DashboardController@articleCreate')->name('article.create');
-        Route::post('/article/store', 'DashboardController@articleStore')->name('article.store');
-        Route::get('/article/edit/{article}', 'DashboardController@articleEdit')->name('article.edit');
-        Route::patch('/article/update/{article}', 'DashboardController@articleUpdate')->name('article.update');
-        Route::delete('/article/delete/{article}', 'DashboardController@articleDelete')->name('article.delete');
+        Route::get('/article/create', 'ArticleController@create')->name('article.create');
+        Route::post('/article/store', 'ArticleController@store')->name('article.store');
+        Route::get('/article/edit/{article}', 'ArticleController@edit')->name('article.edit');
+        Route::patch('/article/update/{article}', 'ArticleController@update')->name('article.update');
+        Route::delete('/article/delete/{article}', 'ArticleController@delete')->name('article.delete');
 
         // R routes for donations
         Route::get('/donations', 'DashboardController@getIndexDonations')->name('index.donations');
 
-        Route::get('/donations/{donation}', 'DashboardController@showDonation')->name('donation.show');
+        Route::get('/donations/{donation}', 'DonationController@show')->name('donation.show');
 
         // CRUD routes for api-keys
         Route::get('/keys', 'DashboardController@getIndexKeys')->name('index.keys');
 
-        Route::get('/keys/{key}', 'DashboardController@keyShow')->name('key.show');
-        Route::get('/key/create', 'DashboardController@createKey')->name('key.create');
-        Route::post('/key/store', 'DashboardController@storeKey')->name('key.store');
-        Route::get('/key/edit/{key}', 'DashboardController@editKey')->name('key.edit');
-        Route::patch('/key/update/{key}', 'DashboardController@updateKey')->name('key.update');
-        Route::delete('/key/delete/{key}', 'DashboardController@deleteKey')->name('key.delete');
+        Route::get('/keys/{key}', 'KeyController@show')->name('key.show');
+        Route::get('/key/create', 'KeyController@create')->name('key.create');
+        Route::post('/key/store', 'KeyController@store')->name('key.store');
+        Route::get('/key/edit/{key}', 'KeyController@edit')->name('key.edit');
+        Route::patch('/key/update/{key}', 'KeyController@update')->name('key.update');
+        Route::delete('/key/delete/{key}', 'KeyController@delete')->name('key.delete');
     });
 });
-

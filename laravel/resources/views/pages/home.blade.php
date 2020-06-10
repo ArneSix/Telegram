@@ -108,7 +108,7 @@
         <div class="row">
             <div class="col-md-4 offset-md-4">
                 <p class="section-contact-title">Subscribe to our newsletter</p>
-                <form class="form" action="">
+                <form class="form" action="{{route('subscribe')}}" method="post">
                     @CSRF
                     <div class="form-group">
                         <label for="email">email</label>
