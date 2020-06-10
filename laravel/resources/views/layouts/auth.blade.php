@@ -33,7 +33,7 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
 
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <div class="collapse navbar-collapse mb-0" id="navbarSupportedContent">
                 <!-- Left Side Of Navbar -->
                 <ul class="navbar-nav mr-auto">
 
@@ -75,8 +75,13 @@
         </div>
     </nav>
 
-    <main class="py-4">
-        @yield('content')
+    <main class="d-flex">
+        <div class="container-fluid p-0">
+            <div class="row m-0">
+                <div class="col-md-3 p-0">@include('admin.partials.sidebar')</div>
+                <div class="col-md-9 p-0">@yield('content')</div>
+            </div>
+        </div>
     </main>
 </div>
 </body>

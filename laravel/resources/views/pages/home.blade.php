@@ -8,8 +8,8 @@
                 <img class="home-section-intro-img image-contain" src="{{asset('img/phone.svg')}}" alt="">
             </div>
             <div class="col-md-6 d-flex justify-content-center flex-column">
-                <h2>Introducing telegram</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus alias aliquid architecto atque autem, consequatur, dignissimos, eaque est harum hic itaque laborum maiores minima nesciunt quasi quis sint suscipit voluptas.</p>
+                <h2>@lang('home.hero-title')</h2>
+                <p>@lang('home.hero-text')</p>
             </div>
         </div>
         <div class="row my-5">
@@ -21,7 +21,7 @@
     <div class="container-fluid text-center">
         <div class="row">
             <div class="col-md-12 home-section-divider">
-                <p>Telegram's features</p>
+                <p>@lang('home.features-title')</p>
             </div>
         </div>
     </div>
@@ -33,9 +33,9 @@
         </div>
         <div class="row my-5 height-350">
             <div class="col-md-6 d-flex flex-column justify-content-center">
-                <h2>What makes Telegram special?</h2>
-                <p>Telegram uses a heavy end-to-end encryption algorithm to keep your data safe from potential hackers. id mauris non, condimentum sollicitudin libero. Phasellus ac nisl ac orci convallis venenatis. Aliquam erat volutpat. Aliquam odio tortor, pharetra ac tellus a, feugiat consequat augue. Proin euismod imperdiet elit ut efficitur. Pellentesque hendrerit nisl ut erat placerat.</p>
-                <a class="btn-learn-more" href="">Learn more</a>
+                <h2>@lang('home.about-title')</h2>
+                <p>@lang('home.about-text')</p>
+                <a class="btn-learn-more" href="">@lang('home.about-btn')</a>
             </div>
             <div class="col-md-6">
                 <img class="image-contain" src="{{asset('img/police.svg')}}" alt="">
@@ -46,7 +46,7 @@
         <div class="container my-5 py-5">
             <div class="row">
                 <div class="col-md-12 text-center home-section-divider">
-                    <p>Read our most popular articles</p>
+                    <p>@lang('home.articles-title')</p>
                 </div>
                 @foreach($articles as $article)
                         <div class="col-md-6">
@@ -72,7 +72,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 donations">
-                <p class="section-donation-title">Recent donations</p>
+                <p class="section-donation-title">@lang('home.donations-title')</p>
                 @foreach($donations as $donation)
                     <div class="donation-row">
                         <div class="donation-info">
@@ -84,27 +84,27 @@
                 @endforeach
             </div>
             <div class="col-md-6">
-                <p class="section-contact-title">Contact us</p>
-                <form class="form" action="">
+                <p class="section-contact-title" id="contact">@lang('home.contact-title')</p>
+                <form class="form" method='post' action="{{route('mail')}}">
                     @CSRF
                     <div class="form-group">
-                        <label for="email">email</label>
+                        <label for="email">@lang('home.contact-email')</label>
                         <input type="email" class="form-control" id="email" name="email" placeholder="Enter email please">
                     </div>
                     <div class="form-group">
-                        <label for="subject">subject</label>
+                        <label for="subject">@lang('home.contact-subject')</label>
                         <input type="text" class="form-control" id="subject" name="subject" placeholder="Enter subject please">
                     </div>
                     <div class="form-group">
-                        <label for="message">message</label>
+                        <label for="message">@lang('home.contact-message')</label>
                         <textarea name="message" class="form-control" id="message" cols="30" rows="10"></textarea>
                     </div>
-                    <button type="submit">Send</button>
+                    <button type="submit">@lang('home.contact-btn')</button>
                 </form>
             </div>
         </div>
     </div>
-    <div class="container-fluid my-5">
+    <div class="container-fluid py-5 my-5 newsletter">
         <div class="row">
             <div class="col-md-4 offset-md-4">
                 <p class="section-contact-title">Subscribe to our newsletter</p>

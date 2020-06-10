@@ -2,6 +2,8 @@
  background-color: #222;
  height: 100vh;
  width: 10vw;
+ margin-top: 0;
+
 
  & img {
      width: 20px;
@@ -9,9 +11,22 @@
  }
 }
 
-.sidebar-icon {
-    width: 500px;
+.sidebar-icons {
+    padding: 2rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
     height: 500px;
+}
+
+.sidebar-icon {
+    width: 100%;
+    height: 50px;
+
+    &:hover {
+        background-color: grey;
+    }
 }
 
 .dashboard-home-main {

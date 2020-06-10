@@ -1,25 +1,25 @@
 <header class="header-bg">
     <div class="container-md">
         <nav class="navbar navbar-expand-md sticky-top">
-            <a href="#" class="navbar-brand">
+            <a href="{{route('home')}}" class="navbar-brand">
                 <img src="{{ asset('img/telegram.svg')  }}" alt="telegram logo">
             </a>
             <div class="collapse navbar-collapse d-flex" id="collapse_target">
                 <ul class="navbar-nav">
                     <li class="nav-item text-center {{ (request()->is('home.index')) ? 'active' : '' }}">
-                        <a href="#" class="nav-link">@lang('navigation.about')</a>
+                        <a href="{{route('about')}}" class="nav-link">@lang('navigation.about')</a>
                     </li>
                     <li class="nav-item text-center {{ (request()->is('home.index')) ? 'active' : '' }}">
-                        <a href="#" class="nav-link">@lang('navigation.contact')</a>
+                        <a href="{{route('contact')}}" class="nav-link">@lang('navigation.contact')</a>
                     </li>
                     <li class="nav-item text-center {{ (request()->is('privacy.index')) ? 'active' : '' }}">
-                        <a href="#" class="nav-link">@lang('navigation.privacy')</a>
+                        <a href="{{route('privacy')}}" class="nav-link">@lang('navigation.privacy')</a>
                     </li>
                     <li class="nav-item text-center {{ (request()->is('news.index')) ? 'active' : '' }}">
-                        <a href="#" class="nav-link">@lang('navigation.news')</a>
+                        <a href="{{route('articles')}}" class="nav-link">@lang('navigation.news')</a>
                     </li>
                     <li class="nav-item text-center {{ (request()->is('donate.index')) ? 'active' : '' }}">
-                        <a href="#" class="nav-link">
+                        <a href="{{route('donate')}}" class="nav-link">
                             @lang('navigation.donate')
                         </a>
                     </li>

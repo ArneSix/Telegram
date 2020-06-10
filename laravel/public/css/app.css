@@ -11036,10 +11036,15 @@ a.text-dark:focus {
   color: white;
 }
 
+.newsletter {
+  background-color: #40B3E0;
+}
+
 .dashboard-home-sidebar {
   background-color: #222;
   height: 100vh;
   width: 10vw;
+  margin-top: 0;
 }
 
 .dashboard-home-sidebar img {
@@ -11047,8 +11052,21 @@ a.text-dark:focus {
   height: 20px;
 }
 
-.sidebar-icon {
-  width: 500px;
+.sidebar-icons {
+  padding: 2rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
   height: 500px;
+}
+
+.sidebar-icon {
+  width: 100%;
+  height: 50px;
+}
+
+.sidebar-icon:hover {
+  background-color: grey;
 }
 

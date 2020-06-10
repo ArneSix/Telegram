@@ -26,6 +26,11 @@ class PageController extends Controller
         ]);
     }
 
+    public function contact()
+    {
+        return redirect()->to('/#contact');
+    }
+
     public function about()
     {
         $articles = Article::all();
@@ -44,12 +49,17 @@ class PageController extends Controller
 
     public function articles()
     {
-        return view("pages/articles");
+        $articles = Article::simplePaginate(15);
+
+        return view("pages/articles", [
+            'articles' => $articles,
+        ]);
     }
 
     public function article(Article $article)
     {
-        return view("pages/article");
+        dd($article);
+        return view("pages/article", [ "article" => $article ]);
     }
 
     /*
